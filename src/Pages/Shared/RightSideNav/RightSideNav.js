@@ -13,7 +13,7 @@ const RightSideNav = () => {
                 <Button className='mb-2' variant='outline-primary'> <FaGoogle />  Login with Google</Button>
                 <Button variant='outline-dark'> <FaGithub></FaGithub> Login with Github</Button>
             </ButtonGroup>
-            <div className='mt-5'>
+            <div className='mt-4'>
                 <h5 className='mb-3'>Find us On</h5>
                 <ListGroup className=''>
                     <ListGroup.Item className='mb-2'><FaFacebook /> Facebook</ListGroup.Item>
